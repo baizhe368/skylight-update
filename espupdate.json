@@ -1,6 +1,6 @@
 {
-    "versionCode": 2,
-    "binVersion": "1.1",
+    "versionCode": 4,
+    "binVersion": "1.3",
     "binUrl": "https://raw.githubusercontent.com/baizhe368/skylight-update/refs/heads/main/firmware.bin",
     "updateInfo": "修改灯具上的bug",
     "isForceUpdate": false
