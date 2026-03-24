@@ -2,6 +2,6 @@
   "versionCode": 2,
   "versionName": "1.1",
   "updateContent": "主界面\n1.主界面进行修改，最顶上不再显示“蓝牙就绪，点击选择设备”，“断开连接”，做成按钮（按钮要有交互感觉）用于管理已连接的蓝牙设备\n2.已连接的设备都在这里最顶上的按钮里面，默认勾选，可以取消勾选设备。设置一个全选按钮\n3.左下角的按钮只负责蓝牙连接，以及新设备连接时的重命名\n4.APP蓝牙重连之后的未知设备问题\n\n同步器页面\n1.合并区域管理为一个，位置管理（待定）\n2.选择位置和绑定的设备的时候增加一个弹窗用于确定\n\n设置页面\n1.增加一个更新按钮\n2.里面显示更新固件和进度条\n3.每次手机只更新app就把固件更新到app上，然后发送给ESP32\n4.更新前先确认连接的设备（尚不清楚是否可以同时更新多个设备）\n\n更新问题\n1.app的更新\n2.OTA用于更新固件，目前考虑用BLE更新\n",
-  "downloadUrl": "https://developer-oss.lanrar.com/file/?AWdUago7VGUACQE5AjcGagM8Bz9UagR2USZQewIsVjJTP1FjCzcBJgQ3VCwBNFAhUGFUdwM6C2BWPQZlUFNWPgFlVD4KZVQ3AG8BYgJjBjQDbAcwVD8EIFEwUCUCY1ZlU2pRMgtiAWcEY1Q2AWNQd1B6VCEDYQs7VmEGMlA6VngBMVQwCnhUMgBiAXgCZwYwAzgHN1Q6BDZRMFA3AmtWblNrUTMLYQE0BGZUMQFhUGRQO1RoA28LOVZmBjRQOlY2ATFUNwpiVGMAbwFiAngGZgMpB2lULQRzUSVQMwIsVj5TN1E7C2MBZQRlVDcBZFBiUDhUdwMoC2BWPAZlUGpWagEwVDQKYFQ0AGUBZAJgBj8DaAcyVCUEKFFwUDACMlYgU25RNgtwASAEIlR1AWhQYFA9VGYDaAs6VmIGNFA7VmUBMVQlCiJUaQAmAWoCZwY/A2oHLFQ5BDVRZlB4Am9WZVN9UTcLYgFmBHxUJAExUD5QfVQ/AwMLalY6Bj1QPFZ5ASdUdwouVHAAMwEIAiMGZgNkBzI=",
+  "downloadUrl": "https://m104.lanosso.com:446/03241500279555671bb/2026/03/24/22ec7bab4c887236cd12c974aef76b0a.apk?st=SEWLQzWqt11R9AUO3tdiOA&e=1774338221&b=ATJaKlIiWHBXcFFiBzsBYAczXnEEYAMrCTsBfFc7&fi=279555671&pid=183-230-12-143&up=2&mp=0&co=0",
   "isForceUpdate": false
 }
