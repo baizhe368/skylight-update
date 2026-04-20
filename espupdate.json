@@ -1,7 +1,7 @@
 {
-    "versionCode": 3,
-    "binVersion": "1.2",
+    "versionCode": 5,
+    "binVersion": "1.4",
     "binUrl": "https://gitee.com/baizhe2222/skylight-update/raw/main/skylight_firmware.bin",
-    "updateInfo": "修改灯具上的bug",
+    "updateInfo": "修改灯具上的bug，开机的时候移动亮度条会闪烁",
     "isForceUpdate": false
 }
