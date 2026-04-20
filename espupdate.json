@@ -1,7 +1,7 @@
 {
     "versionCode": 3,
     "binVersion": "1.2",
-    "binUrl": "https://gitee.com/baizhe2222/skylight-update/raw/main/firmware.bin",
+    "binUrl": "https://gitee.com/baizhe2222/skylight-update/raw/main/skylight_firmware.bin",
     "updateInfo": "修改灯具上的bug",
     "isForceUpdate": false
 }
